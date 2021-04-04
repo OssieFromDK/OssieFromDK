@@ -5,7 +5,7 @@
 >
 ><p>
 > <em>
->   Chill guy doing <b>developing for fun</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Gamer
+>   Chill guy doing <b>developing for fun</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>gamer
 > </em>  
 > </p>
 >
@@ -15,7 +15,7 @@
 
 > 
 > 
->![TutoHacks github stats](https://github-readme-stats.vercel.app/api?username=ossiefromdk&show_icons=true&hide_border=true)
+>![Ossie github stats](https://github-readme-stats.vercel.app/api?username=ossiefromdk&show_icons=true&hide_border=true)
 >![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ossiefromdk&amp;layout=compact)
 >
 > 
@@ -30,6 +30,39 @@
 > <i>Was Developer at Near Reality</i>
 > 
 > <i>Founder/developer at <a href="discord.gg/MJvp3w7d4t" > FiveM Defender </a></i>
+>
+>
+>
+>## DA
+>### Hej <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, velkommen til min github acc
+>
+><p>
+> <em>
+>   Chill guy der <b>udvikler for sjov</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> og en <b>gamer
+> </em>  
+> </p>
+>
+>
+> <br>
+>
+
+> 
+> 
+>![Ossie github stats](https://github-readme-stats.vercel.app/api?username=ossiefromdk&show_icons=true&hide_border=true)
+>![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ossiefromdk&amp;layout=compact)
+>
+> 
+> <i>Var udvikler hos DevoNetwork</i>
+> 
+> <i>Var udvikler hos Imperia Roleplay</i>
+> 
+> <i>Var udvikler hos Joviality</i>
+>
+> <i>Var udvikler hos Night State</i>
+> 
+> <i>Var udvikler hos Near Reality</i>
+> 
+> <i>Grundlægger/udvikler hos <a href="discord.gg/MJvp3w7d4t" > FiveM Defender </a></i>
 >
 >
 >
